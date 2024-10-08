@@ -28,9 +28,9 @@ X. Li et al., "A Generic Modeling Approach for Dual-Active-Bridge Converter Fami
 [![ResearchGate](https://img.shields.io/badge/OpenSource--4-blue)](fill_it_after)
 <br><br>
 * Colabs:<br>
-[![Colab](https://img.shields.io/badge/Colab-PANN--Buck-654062?logo=google-colab)](https://drive.google.com/file/d/1FDxjR-LZxJBbp4PzsinhxdWMrUI7UjW-)
-[![Colab](https://img.shields.io/badge/Colab-PANN--DAB-B4B4B3?logo=google-colab)](https://drive.google.com/file/d/1dJ4GvKc03_eF__c8l1msbI7Fq-8a6ScD)
-[![Colab](https://img.shields.io/badge/Colab-PANN--Operational--Diversity-26577C?logo=google-colab)](https://drive.google.com/file/d/1PSpqhUEfGKXEfoSVesYUmhZCy4EpYTX9)
-[![Colab](https://img.shields.io/badge/Colab-PANN--Topology--Transfer-E55604?logo=google-colab)](https://drive.google.com/file/d/1jXo4uugvnRBgP2948HVPLNRsK8fCh-ge)
+[![Colab](https://img.shields.io/badge/Colab-PANN--Buck-654062?logo=google-colab)](https://colab.research.google.com/drive/1FDxjR-LZxJBbp4PzsinhxdWMrUI7UjW-)
+[![Colab](https://img.shields.io/badge/Colab-PANN--DAB-B4B4B3?logo=google-colab)](https://colab.research.google.com/drive/1dJ4GvKc03_eF__c8l1msbI7Fq-8a6ScD#scrollTo=2ede7f4b)
+[![Colab](https://img.shields.io/badge/Colab-PANN--Operational--Diversity-26577C?logo=google-colab)](https://colab.research.google.com/drive/1PSpqhUEfGKXEfoSVesYUmhZCy4EpYTX9)
+[![Colab](https://img.shields.io/badge/Colab-PANN--Topology--Transfer-E55604?logo=google-colab)](https://colab.research.google.com/drive/1jXo4uugvnRBgP2948HVPLNRsK8fCh-ge)
 
 ## Description

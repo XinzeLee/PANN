@@ -37,7 +37,7 @@ X. Li et al., "A Generic Modeling Approach for Dual-Active-Bridge Converter Fami
 ## Description
 ### I. PANN and its Structure
 PANN, physics-in-architecture neural network, is a physics-informed neural network specifically for the modeling of power electronics systems, leveraging physics-crafted recurrent neural structure to embed discretized state-space circuit equations. PANN introduces inductive biases by embedding discretized PDEs directly into the network architecture, revealing data invariant directly. The neural architecture of PANN is shown in Fig. 1.
-![Structure of PANN.](https://github.com/user-attachments/assets/8ee0c33e-af5f-4bec-94d6-a216a2211128)
+![Structure of PANN.](https://github.com/user-attachments/assets/af90a7b0-3e3e-4fad-bf8e-75bf7ce4efe3)
 <br>Fig. 1. Structure of PANN.<br>
 ### II. PANN Inference
 PANN inference is conducted by recurrently predicting the next state variables using the precomputed input variables and the inferred state variables from previous iteration. The PANN inference unfolded over time is given in Fig. 2.
@@ -49,7 +49,7 @@ PANN model is explainable in power electronics, revealing circuit physical princ
 <br>Fig. 3. PANN's physical explainability.<br>
 ### IV. PANN Training
 The training workflow of PANN is shown in Fig. 4, and one training epoch for PANN is shown in Fig. 5.
-![PANN's training workflow](https://github.com/user-attachments/assets/7341571d-cba5-454a-82ad-87d4fe58ce60)
+![PANN's training workflow](https://github.com/user-attachments/assets/84258774-3626-46d8-8bfc-27befe24256a)
 <br>Fig. 4. PANN's training workflow.<br><br>
 ![One training epoch for PANN](https://github.com/user-attachments/assets/c70eb196-d688-4468-be95-5d23e8639ae1)
 <br>Fig. 5. One training epoch for PANN.<br>

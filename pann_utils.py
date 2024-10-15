@@ -2,7 +2,7 @@
 Created on Thu Mar 21 07:50:04 2024
 
 @author: XinzeLee
-@github: https://github.com/XinzeLee
+@github: https://github.com/XinzeLee/PANN
 
 @reference:
     1: Temporal Modeling for Power Converters With Physics-in-Architecture Recurrent Neural Network
@@ -78,6 +78,9 @@ def create_vpvs(D0, D1, D2, Vin, Vref,
 
 
 def duty_cycle_mod(D0, Vin, dt, Tsim, Ts):
+    """
+        Modulation strategy for buck converters
+    """
     t = np.linspace(0, Ts, round(Ts/dt), endpoint=False)
     s_pri = deque(signal.square(2*np.pi/Ts*t, D0))
     vp = np.array(s_pri).clip(0, 1)*Vin

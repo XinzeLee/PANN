@@ -2,7 +2,7 @@
 Created on Thu Mar 21 07:50:04 2024
 
 @author: XinzeLee
-@github: https://github.com/XinzeLee
+@github: https://github.com/XinzeLee/PANN
 
 @reference:
     1: Temporal Modeling for Power Converters With Physics-in-Architecture Recurrent Neural Network
@@ -46,7 +46,7 @@ def train(model_pann, clamper, optimizer_pann, data_loader, test_data, val_data,
     val_inputs, val_states = val_data
     
     loss_pann = nn.MSELoss()
-    device = "cpu" # it is a waste to use gpu for this network
+    device = "cpu" # it is a waste to use gpu for this efficient and comparct network
     
     
     loss_best_pann = np.inf

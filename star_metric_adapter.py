@@ -2,15 +2,16 @@
 Created on Thu Mar 21 07:50:04 2024
 
 @author: XinzeLee
-@github: https://github.com/XinzeLee
+@github: https://github.com/XinzeLee/PANN
+         https://github.com/XinzeLee/STAR_Metric_Adapter
 
 @reference:
     1: STAR: One-Stop Optimization for Dual-Active-Bridge Converter With Robustness to Operational Diversity
         Authors: Fanfan Lin, Xinze Li (corresponding author), Xin Zhang, and Hao Ma
         Paper DOI: 10.1109/JESTPE.2024.3392684
-    2: Data-Light Physics-Informed Modeling for the Modulation Optimization of a Dual-Active-Bridge Converter
-        Authors: Xinze Li, Fanfan Lin (corresponding and co-first author), Xin Zhang, Hao Ma and Frede Blaabjerg
-        Paper DOI: 10.1109/TPEL.2024.3378184
+    2: Temporal Modeling for Power Converters With Physics-in-Architecture Recurrent Neural Network
+        Authors: Xinze Li, Fanfan Lin (corresponding and co-first author), Huai Wang, Xin Zhang, Hao Ma, Changyun Wen and Frede Blaabjerg
+        Paper DOI: 10.1109/TIE.2024.3352119
 
 """
 

@@ -2,7 +2,7 @@
 Created on Thu Mar 21 07:50:04 2024
 
 @author: XinzeLee
-@github: https://github.com/XinzeLee
+@github: https://github.com/XinzeLee/PANN
 
 @reference:
     1: Temporal Modeling for Power Converters With Physics-in-Architecture Recurrent Neural Network

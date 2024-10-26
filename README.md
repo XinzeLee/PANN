@@ -68,7 +68,7 @@ The steps shown in Fig. 8 can be followed to customize PANN to your specific app
 <br><br>
 
 ## PANN Tutorial
-A comprehensive tutorial of PANN is given in [PANN_Tutorial.pptx](./tutorials/PANN_Tutorial.pptx), with the main topic of "***The Next Generation of AI for Power Electronics: Explainable, Light, and Flexible***". The slides are prepared by Xinze Li and Fanfan Lin, which are the original slides for a special session at IEEE ECCE 2024. <br><br>
+A comprehensive tutorial of PANN is given in [PANN_Tutorial.pptx](./tutorials/PANN_Tutorial.pptx), with the main topic of "***The Next Generation of AI for Power Electronics: Explainable, Light, and Flexible***". The slides are prepared by Xinze Li and Fanfan Lin. <br><br>
 It covers basic introduction to applications of AI in power electronics, brief discussion of physics-informed machine learning methods, PANN inference and its explainability, PANN training and its light characteristics, and PANN's flexibility across diverse conditions and topologies (out-of-domain transfer capability). 
 <br><br>
 

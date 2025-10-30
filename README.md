@@ -114,4 +114,7 @@ This repository currently includes the following functions/blocks: Retrieval aug
 <br><br>
 ## License
 
-This code is licensed under the [Apache License Version 2.0](./LICENSE).
+This project is licensed under the GNU AGPLv3 with additional terms restricting commercial training.
+
+While the code may be used freely in open source projects and in academic teaching/research, it may not be used to provide paid
+courses or commercial training services. See the [GNU AGPLv3](./LICENSE) file for full terms.
